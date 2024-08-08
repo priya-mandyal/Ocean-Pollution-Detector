@@ -19,6 +19,20 @@ The Ocean Pollution Detector is a web application designed to detect and analyze
 
 ## Technologies Used
 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-232F3E?style=flat&logo=aws-lambda&logoColor=ffffff)
+![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-232F3E?style=flat&logo=aws-api-gateway&logoColor=ffffff)
+![AWS Rekognition](https://img.shields.io/badge/AWS%20Rekognition-232F3E?style=flat&logo=aws-rekognition&logoColor=ffffff)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=aws-s3&logoColor=ffffff)
+![AWS SNS](https://img.shields.io/badge/AWS%20SNS-232F3E?style=flat&logo=aws-sns&logoColor=ffffff)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=ffffff)
+![AWS ECS](https://img.shields.io/badge/AWS%20ECS-232F3E?style=flat&logo=aws-ecs&logoColor=ffffff)
+![AWS ECR](https://img.shields.io/badge/AWS%20ECR-232F3E?style=flat&logo=aws-ecr&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
+
 - **Frontend**: React, Vite
 - **Containerization**: Docker
 - **Backend**: AWS Lambda, API Gateway

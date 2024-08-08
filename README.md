@@ -4,7 +4,7 @@
   <img src="src/media/logo.png" alt="Ocean Pollution Detector Logo" width="150"/>
 </p>
 
-- [Visit the Application 🌐](http://54.172.113.246:3000/)
+- [Visit the Application 🌐](http://54.162.175.97:3000/)
 - [Project PDF 📄](media/Project.pdf)
 
 ## Overview

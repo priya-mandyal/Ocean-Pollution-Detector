@@ -20,6 +20,7 @@ The Ocean Pollution Detector is a web application designed to detect and analyze
 ## Technologies Used
 
 - **Frontend**: React, Vite
+- **Containerization**: Docker
 - **Backend**: AWS Lambda, API Gateway
 - **Image Processing**: AWS Rekognition
 - **Storage**: AWS S3
